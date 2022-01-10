@@ -5,7 +5,7 @@
 ## Solving DSA questions of the following companies as a part of #6Companies30days challenge by [Arsh Goyal](https://www.linkedin.com/in/arshgoyal/)
 
 #### Day 1-5 : Completed
-#### Company Name : Goldman Sachs 
+####    Company Name : [Goldman Sachs](https://www.goldmansachs.com/) 
 
 #### Day 6-10 : In Progress
-#### Company Name : Amazon
+####    Company Name : [Amazon](https://www.amazon.com/)
