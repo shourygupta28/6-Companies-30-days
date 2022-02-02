@@ -6,6 +6,7 @@
 
 #### Day 1-5 :
 #### Company Name : Goldman Sachs
+<b>Doc </b><a href="https://docs.google.com/document/d/e/2PACX-1vRgrSl5zCl8P92F0qNuJyDF9v8aqfNd1UB9fQWTb-_aohzhPbZ0GOVbXvfnGHgzbWWdkf9gr7ZgM0lj/pub"><strong>Link »</strong></a><br/>
 
 - [x] 1. Given an array of strings, return all groups of strings that are anagrams.<a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">Link</a>
 - [x] 2. Overlapping rectangles <a href="https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/">Link</a>
@@ -27,7 +28,7 @@
 #### Day 6-10 :
 #### Company Name : Amazon
 
-
+<b>Doc </b><a href="https://docs.google.com/document/d/1KH9GVaUCET-y5SL5sg6DAnon9XwRRW-sPiyJ2p7FRLs/edit"><strong>Link »</strong></a><br/>
 
 - [x] 1. Calculating Maximum Profit (Multiple Ladders Question) <a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1">Link</a>
 - [x] 2. Longest Mountain <a href="https://leetcode.com/problems/longest-mountain-in-array/">Link</a>
@@ -49,7 +50,41 @@
 #### Day 11-15 :
 #### Company Name : Microsoft
 
-
+<b>Doc </b><a href="https://docs.google.com/document/d/1sSyOTeZBVJExf0oytLVGk6Z34h1usFm4QRkr1Wb5ouk/edit"><strong>Link »</strong></a><br/>
 
 - [x] 1. Divide an array into two sets S1 and S2 such that the absolute difference between their sums is minimum and find the minimum difference <a href="https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/">Link</a>
 - [x] 2. Prerequisite Tasks (Similar to Question of Modern Park) <a href="https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/">Link</a>
+- [x] 3. Rotate by 90 degree <a href="https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/">Link</a>
+- [x] 4. Given a matrix of size r*c. Traverse the matrix in spiral form <a href="https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/">Link</a>
+- [x] 5. Stock span problem <a href="https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1">Link</a>
+- [x] 6.Possible Words From Phone Digits <a href="https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/">Link</a>
+- [x] 7.Unit Area of largest region of 1's <a href="https://practice.geeksforgeeks.org/problems/length-of-largest-region-of-1s-1587115620/1/">Link</a>
+- [x] 8.Connect Nodes at Same Level <a href="https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1/">Link</a>
+- [x] 9.Count Number of SubTrees having given Sum <a href="https://practice.geeksforgeeks.org/problems/count-number-of-subtrees-having-given-sum/1/">Link</a>
+- [x] 10.Stickler Thief (Similar to Alibaba and Thiefes Question) <a href="https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/">Link</a>
+- [x] 11.Generate and print all binary numbers with decimal values from 1 to N. <a href="https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/">Link</a>  
+- [x] 12.Find all the unique quadruple from the given array that sums up to the given number. <a href="https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1">Link</a>
+- [x] 13.Given a Graph of V vertices and E edges and another edge(c - d), the task is to find if the given edge is a Bridge. i.e., removing the edge disconnects the graph. <a href="https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1">Link</a>
+- [x] 14.Given a destination D , find the minimum number of steps required to reach that destination. <a href="https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/">Link</a>
+- [x] 15.Find the order of characters in the alien language. <a href="https://practice.geeksforgeeks.org/problems/alien-dictionary/1/">Link</a>
+
+#### Day 16-20 :
+#### Company Name : Adobe
+
+<b>Doc </b><a href="https://docs.google.com/document/d/1cEAe63fC3YMJRwKmCoVOIXFUaFv5LqNXedxaGpaqd6U/edit"><strong>Link »</strong></a><br/>
+
+- [x] 1.Find a continuous sub-array which adds to a given number S.<a href="https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1">Link</a>
+- [x] 2.Find the length of the Longest Arithmetic Progression (LLAP) in it.<a href="https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/">Link</a>
+- [x] 3.Number of distinct Words with k maximum contiguous vowels(Joe and his Dictionary Problem)<a href="https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/">Link</a>
+- [x] 4.Partition Equal Subset Sum<a href="https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1">Link</a>
+- [x] 5.Total number of ways n can be expressed as sum of xth power of unique natural numbers<a href="https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1">Link</a>
+- [x] 6.Generate all combinations of well-formed(balanced) parentheses.<a href="https://practice.geeksforgeeks.org/problems/generate-all-possible-parentheses/1/">Link</a>
+- [x] 7.Pots of Gold Game (Similar to Covid and Beds problem)<a href="https://practice.geeksforgeeks.org/problems/pots-of-gold-game/1/">Link</a>
+- [x] 8.ATOI <a href="https://practice.geeksforgeeks.org/problems/implement-atoi/1/">Link</a>
+- [x] 9. Smallest palindromic number greater than N using the same set of digits as in N.<a href="https://practice.geeksforgeeks.org/problems/next-higher-palindromic-number-using-the-same-set-of-digits5859/1/">Link</a>
+- [x] 10.Elections<a href="https://practice.geeksforgeeks.org/problems/winner-of-an-election-where-votes-are-represented-as-candidate-names-1587115621/1/">Link</a>
+- [x] 11.String Amendment<a href="https://practice.geeksforgeeks.org/problems/amend-the-sentence3235/1">Link</a>
+- [x] 12.Leaders in Array<a href="https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1/">Link</a>
+- [x] 13.Minimum operations to convert array A to B <a href="https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/">Link</a>
+- [x] 14.Smallest range in K lists <a href="https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/">Link</a>
+- [x] 15.Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent? Strings can be empty also.<a href="https://www.geeksforgeeks.org/adobe-interview-experience-for-mts-1-1-5-years-experienced/">Link</a>
